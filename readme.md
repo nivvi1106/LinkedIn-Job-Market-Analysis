@@ -63,3 +63,12 @@ This simple model provides a forward-looking view into evolving job-market skill
 ```bash
 git clone https://github.com/nivvi1106/LinkedIn-Job-Posting-Analysis.git
 cd LinkedIn-Job-Posting-Analysis
+```
+
+## Contributing
+
+Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
