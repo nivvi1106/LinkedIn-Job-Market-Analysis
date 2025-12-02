@@ -1,11 +1,11 @@
-# 📊 LinkedIn Job Posting Analysis (EDA + Skill Demand Forecasting)
+# LinkedIn Job Posting Analysis
 
 This project analyzes **7,900+ LinkedIn job postings** to uncover hiring trends, high-demand roles, competitive companies, and future skill demand.  
 Using Python (Pandas, Seaborn, Matplotlib, Scikit-Learn), the project includes exploratory data analysis, skill extraction, and a simple linear regression model to forecast rising skills.
 
 ---
 
-## 📁 Dataset  
+## Dataset  
 The dataset used in this project was sourced from Kaggle:
 
 🔗 **LinkedIn Job Data (Kaggle)**  
@@ -15,7 +15,7 @@ https://www.kaggle.com/datasets/shashankshukla123123/linkedin-job-data
 
 ---
 
-## 📌 Project Highlights
+## Project Highlights
 
 ### **1. Exploratory Data Analysis (EDA)**
 - Analyzed **7,900+ job postings** to identify:
@@ -41,7 +41,7 @@ This simple model provides a forward-looking view into evolving job-market skill
 
 ---
 
-## 🧪 Tech Stack
+## Tech Stack
 
 - **Python**
 - **Pandas, NumPy**
@@ -51,7 +51,7 @@ This simple model provides a forward-looking view into evolving job-market skill
 
 ---
 
-## 🚀 How to Run This Project
+## How to Run This Project
 
 ### **Option A — Run on Google Colab**
 1. Open `LinkedIn_Job_Market_Analysis.ipynb` in Colab.  
@@ -63,7 +63,27 @@ This simple model provides a forward-looking view into evolving job-market skill
 ```bash
 git clone https://github.com/nivvi1106/LinkedIn-Job-Posting-Analysis.git
 cd LinkedIn-Job-Posting-Analysis
+Then open the notebook in Jupyter or VS Code
 ```
+
+## Visuals Included
+
+The notebook includes clear visualizations, such as:
+1. Top 10 hiring locations
+2. Top hiring companies
+3. Most competitive job roles
+4. Work type distribution
+5. In-demand skill rankings
+6. Forecasted skill-growth curves (AI, UI/UX, etc.)
+
+## Key Results Summary
+
+1. AI is the fastest-growing skill (projected +15%).
+2. UI/UX demand is steadily increasing (+12%).
+3. Job postings for Data Analyst, Developer, and Manager roles appear most frequently.
+4. Cities like Bengaluru, Hyderabad, and Chennai show the highest job activity.
+5. Companies with high LinkedIn follower counts receive more applications on average.
+
 
 ## Contributing
 
